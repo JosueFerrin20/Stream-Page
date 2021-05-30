@@ -1,0 +1,57 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    border: 2px solid black;
+    outline:  rgb(125, 171, 231) solid 10px;
+    margin: auto;  
+    padding: 20px;
+    color: white;
+    text-align: center;
+    top: 20px;
+}
+
+/*p {
+    font-family: verdana;
+    font-size: 20px;
+}*/
+.ul {
+background-color: rgb(125, 171, 231);
+}
+.div-border{
+    background-color: lightgrey;
+    width: 200px;
+    border: 15px solid  rgb(125, 171, 231);
+    padding: 30px;
+    margin: 20px;
+}
+.border{
+    border: 2px solid rgb(97, 117, 139);
+    border-radius: 5px;
+}
+img {
+    border: black 2px;
+    border-style:groove;
+    
+}
+.img-rounded {
+    border-radius: 30px;
+    border-style: double;
+}
+.color-text {
+    color: rgb(73, 122, 124);
+}
+.background-color-special {
+    background-color: burlywood;
+}
+.icon{
+    font-size:48px;color:red;
+}
+.vinculo{
+    background-color: lightgrey;
+    width: 200px;
+    border: 5px solid  rgb(125, 171, 231);
+    padding: 7px;
+    margin: 5px;
+}
